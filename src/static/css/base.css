@@ -1,0 +1,13 @@
+html,body,#root{
+    min-height: 100%;
+}
+.layout {
+    min-height: 100vh;
+    width: 100%;
+    
+}
+
+.layoutItem{
+    flex: 1;
+}
+

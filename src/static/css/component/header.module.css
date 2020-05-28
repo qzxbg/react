@@ -1,0 +1,38 @@
+.container{
+    height: 64px;
+    background-color: whitesmoke;
+    display: flex;
+    padding: 0;
+    
+}
+
+.logo{
+    display: flex;
+    background-color: #001529;
+    line-height: 64px;
+    width: 200px;
+    justify-content: center;
+}
+
+.green{
+    color: green;
+}
+
+.white{
+    color: honeydew;
+}
+
+.nav{
+    flex: 1;
+    height: 64px;
+    border-bottom: 2px solid gainsboro;
+    display: flex;
+    flex-direction: row-reverse;
+    padding-right:20px;
+
+}
+
+.icon{
+    font-size: 24px;
+    line-height: 64px;
+}
